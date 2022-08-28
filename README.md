@@ -1,4 +1,4 @@
-### Olá, tudo bem? Eu sou o lucas França!!
+### Olá, tudo bem? Eu sou o Lucas França!!
 
 - Estou em busca de um trabalho como Desenvolvedor Júnior Front-end 
 - Estou cursando a 2 fase de ADS 
