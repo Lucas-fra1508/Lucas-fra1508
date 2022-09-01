@@ -1,7 +1,10 @@
 ### Olá, tudo bem? Eu sou o Lucas França!!
 
-- Estou começando como Desenvolvedor Júnior Front-end 
-- Estou cursando a 2 fase de ADS  
+- Idade: 27 anos (15/08/1995)
+- Onde Moro: Florianópolis/Santa Catarina
+- Meu Objetivo: Desenvolvedor Júnior Front-end (Iniciante)
+- Cursando:2ª fase de ADS (3 anos)
+- Faculdade: Cesusc SC 401
 - O que aprendemos até agora ? Python, HTML, C
 - Whatsapp (48) 98402-1894
 
