@@ -3,7 +3,7 @@
 - Idade: 27 anos (15/08/1995)
 - Onde Moro: Florianópolis/Santa Catarina
 - Meu Objetivo: Desenvolvedor Júnior Front-end (Iniciante)
-- Cursando:2ª fase de ADS (3 anos)
+- Cursando: 2ª fase de Análise e Desenvolvimento de Sistemas (3 anos)
 - Faculdade: Cesusc SC 401
 - O que aprendemos até agora ? Python, HTML, C
 - Whatsapp (48) 98402-1894
