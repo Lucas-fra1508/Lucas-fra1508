@@ -1,7 +1,8 @@
 ### Olá, tudo bem? Eu sou o Lucas França!!
 
-- Estou em busca de um trabalho como Desenvolvedor Júnior Front-end 
+- Estou começando como Desenvolvedor Júnior Front-end 
 - Estou cursando a 2 fase de ADS  
+- O que aprendemos até agora ? Python, HTML, C
 - Whatsapp (48) 98402-1894
 
 <div>
