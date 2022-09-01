@@ -1,7 +1,8 @@
 ### Olá, tudo bem? Eu sou o Lucas França!!
 
 - Estou em busca de um trabalho como Desenvolvedor Júnior Front-end 
-- Estou cursando a 2 fase de ADS 
+- Estou cursando a 2 fase de ADS  
+- Whatsapp (48) 98402-1894
 
 <div>
   <a href="https://beacons.al/lucas-fra1508>">
