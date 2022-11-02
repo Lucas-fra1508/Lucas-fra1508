@@ -9,6 +9,12 @@ Sobre Mim:
 - Meu conhecimentos: PYTHON | HTML | PHP | CSS | C++ 
 - Whatsapp +55 (48) 98402-1894
 
+- Idiomas: 
+
+- Inglês (Nível Básico)
+- Italiano (Nível Básico)
+- Português (Fluente)
+
 Hello, how are you? It's very nice to meet you, I'm Lucas France!!
 
  About me:
@@ -19,6 +25,12 @@ Hello, how are you? It's very nice to meet you, I'm Lucas France!!
 - My Goal: Front-End Developer (Beginner)
 - My knowledge:  PYTHON | HTML | PHP | CSS | C++ 
 - Whatsapp +55 (48) 98402-1894
+
+- Languages:
+
+- English (Basic level)
+- Italian (Basic Level)
+- Portuguese (Fluent)
 
 <div>
   <a href="https://beacons.al/lucas-fra1508>">
