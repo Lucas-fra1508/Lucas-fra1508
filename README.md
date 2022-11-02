@@ -9,7 +9,7 @@ Sobre Mim:
 - Meu conhecimentos: PYTHON | HTML | PHP | CSS | C++ 
 - Whatsapp +55 (48) 98402-1894
 
-- Idiomas: 
+ Idiomas: 
 
 - Inglês (Nível Básico)
 - Italiano (Nível Básico)
@@ -26,7 +26,7 @@ Hello, how are you? It's very nice to meet you, I'm Lucas France!!
 - My knowledge:  PYTHON | HTML | PHP | CSS | C++ 
 - Whatsapp +55 (48) 98402-1894
 
-- Languages:
+ Languages:
 
 - English (Basic level)
 - Italian (Basic Level)
