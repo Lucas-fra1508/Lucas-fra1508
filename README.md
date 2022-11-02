@@ -1,5 +1,7 @@
 ### Olá, tudo bem? Muito Prazer, Eu sou o Lucas França!!
 
+- Sobre Mim:
+
 - Idade: 27 anos (15/08/1995)
 - Onde Moro: Florianópolis/Santa Catarina
 - Brasileiro
@@ -9,6 +11,7 @@
 - 
 
 Hello, how are you? It's very nice to meet you, I'm Lucas France!!
+About me:
 
 - Age: 27 years (15/08/1995)
 - Where I live: Florianópolis/Santa Catarina
