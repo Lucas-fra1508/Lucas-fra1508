@@ -2,21 +2,16 @@
 
 - Sobre Mim:
 
-Olá, Tudo bem ? Permita-me me apresentar!!  Me chamo Lucas França, tenho 27 anos de idade, sou Brasileiro e moro na cidade de Florianópolis - Santa Catarina. Estou começando como Desenvolvedor Front-End. 
-
 - Idade: 27 anos (15/08/1995)
 - Onde Moro: Florianópolis/Santa Catarina
 - Brasileiro
 - Meu Objetivo: Desenvolvedor Front-End (Iniciante)
 - Meu conhecimentos: PYTHON | HTML | PHP | CSS | C++ 
 - Whatsapp +55 (48) 98402-1894
-- 
 
 Hello, how are you? It's very nice to meet you, I'm Lucas France!!
 
 - About me:
-
-Hello, How are you? Allow me to introduce myself!!  My name is Lucas França, I am 27 years old, I am Brazilian and I live in the city of Florianópolis - Santa Catarina. I'm starting out as a Front-End Developer.
 
 - Age: 27 years (15/08/1995)
 - Where I live: Florianópolis/Santa Catarina
