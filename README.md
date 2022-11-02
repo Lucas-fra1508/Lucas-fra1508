@@ -11,7 +11,8 @@
 - 
 
 Hello, how are you? It's very nice to meet you, I'm Lucas France!!
-About me:
+
+- About me:
 
 - Age: 27 years (15/08/1995)
 - Where I live: Florianópolis/Santa Catarina
