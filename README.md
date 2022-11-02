@@ -3,7 +3,7 @@
 Sobre Mim:
 
 - Idade: 27 anos (15/08/1995)
-- Onde Moro: Florianópolis/Santa Catarina
+- Onde Moro: Florianópolis  | Santa Catarina
 - Brasileiro
 - Meu Objetivo: Desenvolvedor Front-End (Iniciante)
 - Meu conhecimentos: PYTHON | HTML | PHP | CSS | C++ 
@@ -22,7 +22,7 @@ Hello, How are you? It's very nice to meet you, I'm Lucas France!!
  About me:
 
 - Age: 27 years (15/08/1995)
-- Where I live: Florianópolis/Santa Catarina
+- Where I live: Florianópolis | Santa Catarina
 -Brazilian
 - My Goal: Front-End Developer (Beginner)
 - My knowledge:  PYTHON | HTML | PHP | CSS | C++ 
