@@ -17,7 +17,7 @@ Sobre Mim:
 
 
 
-Hello, how are you? It's very nice to meet you, I'm Lucas France!!
+Hello, How are you? It's very nice to meet you, I'm Lucas France!!
 
  About me:
 
