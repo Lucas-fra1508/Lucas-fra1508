@@ -1,12 +1,22 @@
-### Olá, tudo bem? Eu sou o Lucas França!!
+### Olá, tudo bem? Muito Prazer, Eu sou o Lucas França!!
 
 - Idade: 27 anos (15/08/1995)
 - Onde Moro: Florianópolis/Santa Catarina
-- Meu Objetivo: Desenvolvedor Júnior Front-end (Iniciante)
-- Cursando: 2ª fase de Análise e Desenvolvimento de Sistemas (3 anos)
-- Faculdade: Cesusc SC 401
-- O que aprendemos até agora ? Python, HTML, C
-- Whatsapp (48) 98402-1894
+- Brasileiro
+- Meu Objetivo: Desenvolvedor Front-End (Iniciante)
+- Meu conhecimentos: PYTHON | HTML | PHP | CSS | C++ 
+- Whatsapp +55 (48) 98402-1894
+
+Hello, how are you? I'm Lucas France!!
+
+Hello, how are you? It's very nice to meet you, I'm Lucas France!!
+
+- Age: 27 years (15/08/1995)
+- Where I live: Florianópolis/Santa Catarina
+-Brazilian
+- My Goal: Front-End Developer (Beginner)
+- My knowledge:  PYTHON | HTML | PHP | CSS | C++ 
+- Whatsapp +55 (48) 98402-1894
 
 <div>
   <a href="https://beacons.al/lucas-fra1508>">
