@@ -6,8 +6,7 @@
 - Meu Objetivo: Desenvolvedor Front-End (Iniciante)
 - Meu conhecimentos: PYTHON | HTML | PHP | CSS | C++ 
 - Whatsapp +55 (48) 98402-1894
-
-Hello, how are you? I'm Lucas France!!
+- 
 
 Hello, how are you? It's very nice to meet you, I'm Lucas France!!
 
