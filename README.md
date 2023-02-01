@@ -17,22 +17,6 @@ Sobre Mim:
 
 
 
-Hello, How are you? It's very nice to meet you, I'm Lucas France!!
-
- About me:
-
-- Age: 27 years (15/08/1995)
-- Where I live: Florianópolis | Santa Catarina
--Brazilian
-- My Goal: Front-End Developer (Beginner)
-- My knowledge:  PYTHON | HTML | PHP | CSS | C++ 
-- Whatsapp +55 (48) 98402-1894
-
- Languages:
-
-- English (Basic level)
-- Italian (Basic Level)
-- Portuguese (Fluent)
 
 <div>
   <a href="https://beacons.al/lucas-fra1508>">
