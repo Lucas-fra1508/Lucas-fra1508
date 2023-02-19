@@ -5,15 +5,11 @@
 * Telefone para contato: (48)98402.1894
 
 Desenvolvedor Front End JÚNIOR.
-Atualmente cursando a 3ª Fase de Análise e Desenvolvimento de Sistemas, na Faculdade Cesusc.
-Sou apaixonado pelo mundo da tecnologia, por esse fator decidi seguir a profissão.
-Sou uma pessoa guerreira, batalhadora, que corre atrás de seus objetivos e que gosta de encarar qualquer tipo de desafio.
-Sou uma pessoa muito prestativa e gosto muito de trabalhar em equipe.
-Tenho bastante interesse na criação de Web Sites, pois é algo que eu sempre gostei e me encontrei de verdade.
-Tenho Bastante interesse de aprender, conhecer e aplicar funçoes novas, pois sou uma pessoa de fácil convívio.
-Hoje estou em busca da minha primeira oportunidade de trabalho / estágio, para que possa adquirir ainda mais conhecimentos e experiências.
-Atualmente também estou estudando Inglês no CNA (BÁSICO)
-Para me aprimorar e trazer conhecimentos, tanto para minha vida pessoal , como também para a profissão.
+Atualmente estou cursando a 3ª Fase de Análise e Desenvolvimento de Sistemas, na Faculdade Cesusc. Sou apaixonado pelo mundo da tecnologia, por esse fato decidi seguir a profissão.
+Sou uma pessoa muito prestativa e gosto muito de trabalhar em equipe, sou batalhador e corro atrás dos meus objetivos e que gosta de encarar qualquer tipo de desafio. 
+Tenho bastante interesse na criação de Websites, conhecer e aplicar novas funções, pois é algo que eu sempre gostei e me encontrei de verdade!
+Hoje estou em busca da minha primeira oportunidade de trabalho/estágio, para que eu possa adquirir ainda mais conhecimentos e experiências. 
+Atualmente também estou estudando Inglês no CNA (BÁSICO) para me aprimorar e trazer conhecimentos, tanto para minha vida pessoal, como também para a profissional.
 
  Idiomas: 
 
