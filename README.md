@@ -1,14 +1,11 @@
 ### Olá, Tudo bem?
-Muito Prazer, Eu sou o Lucas França!!
+
 
 SOBRE MIM:
 
-- Idade: 27 anos (15/08/1995)
-- Onde Moro: Florianópolis  | Santa Catarina
-- Brasileiro
-- Meu Objetivo: Desenvolvedor Front-End Júnior
-- Meu conhecimentos: PYTHON | HTML | PHP | CSS | C++ | JAVA
-- Whatsapp +55 (48) 98402-1894
+Me chamo Lucas de França da Silva, tenho 27 anos.
+Moro em Florianópolis Santa Catarina.
+Telefone: (48)98402.1894
 
 Desenvolvedor Front End JÚNIOR.
 Atualmente cursando a 3ª Fase de Análise e Desenvolvimento de Sistemas, na Faculdade Cesusc.
