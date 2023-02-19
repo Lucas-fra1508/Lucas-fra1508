@@ -1,8 +1,5 @@
 ### Olá, Tudo bem?
 
-
-SOBRE MIM:
-
 * Eu sou o Lucas de França da Silva, tenho 27 anos.
 * Moro em Florianópolis Santa Catarina.
 * Telefone para contato: (48)98402.1894
