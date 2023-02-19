@@ -9,8 +9,6 @@ SOBRE MIM:
 - Meu conhecimentos: PYTHON | HTML | PHP | CSS | C++ | JAVA
 - Whatsapp +55 (48) 98402-1894
 
-Conheça um pouco mais sobre mim:
-
 Desenvolvedor Front End JÚNIOR.
 Atualmente cursando a 3ª Fase de Análise e Desenvolvimento de Sistemas, na Faculdade Cesusc.
 Sou apaixonado pelo mundo da tecnologia, por esse fator decidi seguir a profissão.
