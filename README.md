@@ -1,19 +1,31 @@
 ### Olá, Tudo bem? Muito Prazer, Eu sou o Lucas França!!
 
-Sobre Mim:
+SOBRE MIM:
 
 - Idade: 27 anos (15/08/1995)
 - Onde Moro: Florianópolis  | Santa Catarina
 - Brasileiro
 - Meu Objetivo: Desenvolvedor Front-End (Iniciante)
-- Meu conhecimentos: PYTHON | HTML | PHP | CSS | C++ 
+- Meu conhecimentos: PYTHON | HTML | PHP | CSS | C++ | JAVA
 - Whatsapp +55 (48) 98402-1894
+
+UM POUCO MAIS SOBRE MIM:
+
+Desenvolvedor Front End JÚNIOR.
+Atualmente cursando a 3ª Fase de Análise e Desenvolvimento de Sistemas, na Faculdade Cesusc.
+Sou apaixonado pelo mundo da tecnologia, por esse fator decidi seguir a profissão.
+Sou uma pessoa guerreira, batalhadora, que corre atrás de seus objetivos e que gosta de encarar qualquer tipo de desafio.
+Sou uma pessoa muito prestativa e gosto muito de trabalhar em equipe.
+Tenho bastante interesse na criação de Web Sites, pois é algo que eu sempre gostei e me encontrei de verdade.
+Tenho Bastante interesse de aprender, conhecer e aplicar funçoes novas, pois sou uma pessoa de fácil convívio.
+Hoje estou em busca da minha primeira oportunidade de trabalho / estágio, para que possa adquirir ainda mais conhecimentos e experiências.
+Atualmente também estou estudando Inglês no CNA (BÁSICO)
+Para me aprimorar e trazer conhecimentos, tanto para minha vida pessoal , como também para a profissão.
 
  Idiomas: 
 
-- Inglês (Nível Básico)
-- Italiano (Nível Básico)
-- Português (Fluente)
+- Inglês (Nível Básico - CNA Florianópolis-Santa Catarina)
+
 
 
 
