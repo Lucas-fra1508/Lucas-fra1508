@@ -5,7 +5,7 @@ SOBRE MIM:
 
 * Eu sou o Lucas de França da Silva, tenho 27 anos.
 * Moro em Florianópolis Santa Catarina.
-* Telefone: (48)98402.1894
+* Telefone para contato: (48)98402.1894
 
 Desenvolvedor Front End JÚNIOR.
 Atualmente cursando a 3ª Fase de Análise e Desenvolvimento de Sistemas, na Faculdade Cesusc.
