@@ -17,7 +17,7 @@ Atualmente também estou estudando Inglês no CNA (BÁSICO) para me aprimorar e 
 
 ---------
 
-Hello how are you?
+Hello, how are you?
 
 * I'm Lucas de França da Silva, I'm 27 years old.
 * I live in Florianópolis Santa Catarina. (Brazil)
