@@ -18,9 +18,10 @@ Atualmente também estou estudando Inglês no CNA (BÁSICO) para me aprimorar e 
 ---------
 
 Hello how are you?
-I'm Lucas de França da Silva, I'm 27 years old.
-I live in Florianópolis Santa Catarina.
-Contact Phone: (48)98402.1894
+
+* I'm Lucas de França da Silva, I'm 27 years old.
+* I live in Florianópolis Santa Catarina. (Brazil)
+* Contact Phone: (48)98402.1894
 
 Front End Developer.
 I am currently attending the 3rd Phase of Systems Analysis and Development, at Faculdade Cesus. I have always loved the world of technology, so I decided to follow the profession.
@@ -28,6 +29,10 @@ I am a very helpful person and I really like to work as a team, I am a battler a
 I am very interested in creating websites, knowing and applying new functions, because it is something that I have always liked and found myself for real!
 Today I am looking for my first job opportunity/internship, so that I can acquire even more knowledge and experiences. 
 Currently I am also studying English at CNA (BASIC) to improve myself and bring knowledge, both for my personal life, as well as for the professional.
+
+Languages: 
+
+- English (Basic Level - CNA Florianópolis- Brazil)
 
 
 
