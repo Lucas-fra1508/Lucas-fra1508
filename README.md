@@ -4,8 +4,8 @@
 * Moro em Florianópolis Santa Catarina.
 * Telefone para contato: (48)98402.1894
 
-Desenvolvedor Front End JÚNIOR.
-Atualmente estou cursando a 3ª Fase de Análise e Desenvolvimento de Sistemas, na Faculdade Cesusc. Sou apaixonado pelo mundo da tecnologia, por esse fato decidi seguir a profissão.
+Desenvolvedor Front End.
+Atualmente estou cursando a 3ª Fase de Análise e Desenvolvimento de Sistemas, na Faculdade Cesusc. Sempre gostei muito do mundo da tecnologia, por esse fato decidi seguir a profissão.
 Sou uma pessoa muito prestativa e gosto muito de trabalhar em equipe, sou batalhador e corro atrás dos meus objetivos e que gosta de encarar qualquer tipo de desafio. 
 Tenho bastante interesse na criação de Websites, conhecer e aplicar novas funções, pois é algo que eu sempre gostei e me encontrei de verdade!
 Hoje estou em busca da minha primeira oportunidade de trabalho/estágio, para que eu possa adquirir ainda mais conhecimentos e experiências. 
@@ -14,6 +14,20 @@ Atualmente também estou estudando Inglês no CNA (BÁSICO) para me aprimorar e 
  Idiomas: 
 
 - Inglês (Nível Básico - CNA Florianópolis-Santa Catarina)
+
+---------
+
+Hello how are you?
+I'm Lucas de França da Silva, I'm 27 years old.
+I live in Florianópolis Santa Catarina.
+Contact Phone: (48)98402.1894
+
+Front End Developer.
+I am currently attending the 3rd Phase of Systems Analysis and Development, at Faculdade Cesus. I have always loved the world of technology, so I decided to follow the profession.
+I am a very helpful person and I really like to work as a team, I am a battler and I run after my goals and I like to face any kind of challenge.
+I am very interested in creating websites, knowing and applying new functions, because it is something that I have always liked and found myself for real!
+Today I am looking for my first job opportunity/internship, so that I can acquire even more knowledge and experiences. 
+Currently I am also studying English at CNA (BASIC) to improve myself and bring knowledge, both for my personal life, as well as for the professional.
 
 
 
