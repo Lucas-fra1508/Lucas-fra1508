@@ -13,7 +13,7 @@ Atualmente também estou estudando Inglês no CNA (BÁSICO) para me aprimorar e 
 
  Idiomas: 
 
-- Inglês (Nível Básico - CNA Florianópolis-Santa Catarina)
+- Inglês (Nível Básico 6 meses - CNA Florianópolis-Santa Catarina)
 
 ---------
 
@@ -32,7 +32,7 @@ Currently I am also studying English at CNA (BASIC) to improve myself and bring 
 
 Languages: 
 
-- English (Basic Level - CNA Florianópolis- Brazil)
+- English (Basic Level 6 meses - CNA Florianópolis- Brazil)
 
 
 
